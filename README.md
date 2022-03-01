@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SavuEmanuel
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning HTML and CSS
+- 📫 How to reach me savuemanuel.2004@gmail.com
