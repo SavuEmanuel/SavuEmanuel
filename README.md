@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SavuEmanuel
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML and CSS
-- 📫 How to reach me savuemanuel.2004@gmail.com
+- 👋 Hi, I’m @TripInCodeWrld ( on twitter 🐦)
+- 👀 I’m interested in coding and social media management
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me savu.webdev@gmail.com
